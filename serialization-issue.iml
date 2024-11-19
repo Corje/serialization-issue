@@ -12,7 +12,7 @@
           </stringArguments>
           <arrayArguments>
             <arrayArg name="pluginClasspaths">
-              <args>/Users/Alexander.Danilov/IdeaProjects/kotlin/intellij/out/dev-run/idea/plugins/Kotlin/lib/kotlinx-serialization-compiler-plugin.jar</args>
+              <args>/Users/Alexander.Danilov/IdeaProjects/kotlin/intellij/out/dev-run/idea/plugins/Kotlin/lib/kotlinc.kotlinx-serialization-compiler-plugin.jar</args>
             </arrayArg>
           </arrayArguments>
         </compilerArguments>
